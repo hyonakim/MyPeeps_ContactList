@@ -2,6 +2,8 @@
 
 > Contact List Demo on a Device
 
+## Demo: http://mypeeps.surge.sh/index.html
+
 #### Utilities, Libraries Used:
 ##### HTML5
 ##### SASS
