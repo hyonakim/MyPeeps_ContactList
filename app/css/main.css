@@ -2019,6 +2019,63 @@
   content: ""; }
 
 body {
-  background: #e2ebf3; }
+  background: #fff;
+  position: relative; }
+  body .edge {
+    position: absolute;
+    top: -135px;
+    left: 35%;
+    z-index: -1; }
+  body .myContacts {
+    position: absolute;
+    top: -11%;
+    left: 55%;
+    border: 1px solid #00AC68;
+    border-radius: 8px;
+    padding: 10px;
+    background: #00AC68;
+    color: #fff; }
+  body .app {
+    margin-top: 12%; }
+  body .person-list-item {
+    margin: 0 0 0 40%;
+    font-weight: bold;
+    color: #00AC68;
+    cursor: pointer; }
+    body .person-list-item img {
+      border: none;
+      border-radius: 30px; }
+  body span {
+    margin-left: 3%; }
+  body .hrline {
+    width: 45%;
+    margin-right: 0;
+    margin-left: -28px; }
+  body .contactInfo {
+    margin-left: 43%;
+    position: absolute;
+    top: 100px; }
+  body .photo {
+    border: none;
+    border-radius: 102px; }
+  body .information {
+    margin-top: 22%;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    background: #00AC68;
+    padding: 10px;
+    border: none;
+    border-radius: 20px; }
+  body .fa {
+    position: absolute;
+    top: -26px;
+    color: #00AC68;
+    margin-left: 39%; }
+  body .fa-phone-square {
+    position: absolute;
+    top: 108%;
+    right: 40%;
+    cursor: pointer; }
 
 /*# sourceMappingURL=main.css.map */
